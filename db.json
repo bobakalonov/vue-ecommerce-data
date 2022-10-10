@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "id": "p01",
+      "quantity": 0,
+      "name": "Asus Vivobook",
+      "image": "img/png/pr01.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 25,
+      "productDetails": [
+        {
+          "id": "d01",
+          "battery": "12000 mAh",
+          "power": "4.2 ГГц.",
+          "speed": "core i9 11Gen",
+          "hour": "13 часов"
+        }
+      ],
+      "productPrice": {
+        "price": 10990,
+        "disPrice": 9990
+      }
+    },
+    {
+      "id": "p02",
+      "quantity": 0,
+      "name": "Acer Aspire 5",
+      "image": "img/png/pr02.png",
+      "isNew": false,
+      "isXit": true,
+      "amount": 15,
+      "productDetails": [
+        {
+          "id": "d02",
+          "battery": "5000 mAh",
+          "power": "3.3 ГГц.",
+          "speed": "core i7 11Gen",
+          "hour": "7 часов"
+        }
+      ],
+      "productPrice": {
+        "price": 8990,
+        "disPrice": 7990
+      }
+    },
+    {
+      "id": "p03",
+      "quantity": 0,
+      "name": "Hp Pavilion",
+      "image": "img/png/pr03.png",
+      "isNew": true,
+      "isXit": false,
+      "amount": 5,
+      "productDetails": [
+        {
+          "id": "d03",
+          "battery": "2000 mAh",
+          "power": "2,2 ГГц",
+          "speed": "core i5 11Gen",
+          "hour": "6 часов"
+        }
+      ],
+      "productPrice": {
+        "price": 7990,
+        "disPrice": 6990
+      }
+    }
+  ],
+  "cartArr": []
+}
